@@ -1,0 +1,820 @@
+PROJECT: I PAY GHANA — MODERN FINTECH WEBSITE
+
+1. PROJECT OVERVIEW
+
+Design and build a complete, modern, responsive fintech website for I Pay Ghana, a Ghana-focused digital payments and financial technology brand.
+
+The website should communicate trust, simplicity, accessibility, innovation, and financial empowerment. Its visual quality should match the standard of leading African fintech brands, using a clean layout, authentic Ghanaian lifestyle photography, bold typography, and a distinctive green visual identity.
+
+The website must feel like a credible fintech platform built for everyday Ghanaians, small businesses, entrepreneurs, and digitally connected consumers.
+
+Brand name: I Pay Ghana
+Industry: Financial technology / Digital payments
+Primary market: Ghana
+Primary language: English
+Currency: Ghanaian cedi (GHS)
+Visual direction: Modern African fintech, clean, premium, accessible, and trustworthy.
+
+Important: Treat I Pay Ghana as the brand being designed, not as a copy of M-KOPA. Use the reference design language as inspiration while creating original branding, content, components, and layouts.
+
+Do not invent specific financial products, regulatory approvals, partnerships, transaction capabilities, or guarantees that have not been provided.
+
+---
+
+2. BRAND IDENTITY AND COLOUR SYSTEM
+
+Create a distinctive visual identity for I Pay Ghana.
+
+Primary colours
+
+- Vibrant fintech green: #4FB848
+- Alternative action green: #00A651
+- Dark green: #087A3D
+- Soft mint background: #E8F5E9
+- Pale green: #F3FAF2
+- Pure white: #FFFFFF
+- Primary text: #171717
+- Secondary text: #5F665F
+- Border colour: #E1E8E1
+- Secondary accent blue: #173F72
+
+Use green as the dominant brand colour, particularly for primary calls to action, active states, highlighted text, icons, and feature sections.
+
+Use white space generously. Avoid excessive gradients, neon effects, and unnecessary decorative elements.
+
+Typography
+
+Use a modern sans-serif font such as Inter, Manrope, or Plus Jakarta Sans.
+
+Typography should feature:
+
+- Large, bold hero headlines.
+- Clear section headings.
+- Comfortable body text.
+- Strong contrast between headings and descriptions.
+- Consistent font weights and line heights.
+
+UI style
+
+- Rounded cards with approximately 16–24px corner radii.
+- Pill-shaped buttons.
+- Soft, restrained shadows.
+- Minimal borders.
+- Consistent spacing.
+- Clean icons.
+- Smooth hover transitions.
+- Accessible colour contrast.
+
+---
+
+3. HEADER AND NAVIGATION
+
+Create a sticky white navigation bar that remains visible while scrolling.
+
+Left: Brand logo
+
+Design an original I Pay Ghana logo.
+
+The logo should feature:
+
+- A distinctive green payment-inspired symbol.
+- The text "I PAY" in a bold, near-black typeface.
+- "GHANA" as a smaller supporting wordmark where appropriate.
+
+Explore a symbol combining a payment signal, circular motion, and a simplified letterform.
+
+The logo must be original and must not reproduce M-KOPA's logo.
+
+Centre: Navigation links
+
+Include:
+
+- Home
+- Products
+- Solutions
+- How It Works
+- About Us
+- Contact
+
+Use dropdown menus for Products and Solutions where useful.
+
+Right: Primary actions
+
+Include:
+
+- A Ghana flag icon with the label "Ghana" and a dropdown arrow.
+- A secondary "Log In" button.
+- A prominent green "Get Started" button.
+
+The navigation should collapse into an accessible mobile menu on smaller screens.
+
+Do not make the login or payment buttons functional unless the corresponding backend or destination exists.
+
+---
+
+4. HERO SECTION
+
+Create a visually striking, full-width hero section featuring authentic Ghanaian lifestyle photography.
+
+Photography direction
+
+Show two young Black Ghanaian adults in a contemporary Ghanaian urban setting, such as a small business, shop, café, or everyday commercial environment.
+
+The image should communicate convenience, confidence, opportunity, and financial inclusion.
+
+Use natural lighting, realistic skin tones, authentic Ghanaian surroundings, and professional commercial photography.
+
+Avoid generic stock-photo aesthetics and artificial-looking people.
+
+Image treatment
+
+- Full-width lifestyle image.
+- Dark green or translucent green overlay on the left.
+- Strong text contrast.
+- Subtle image gradients to improve readability.
+- Rounded or full-bleed composition, depending on the viewport.
+
+Left-side content
+
+Eyebrow text:
+"YOUR MONEY. YOUR WAY."
+
+Main headline:
+
+"Pay smarter.
+Live better."
+
+Supporting paragraph:
+
+"Discover a simpler way to manage everyday payments with I Pay Ghana. Built around the needs of people and businesses in Ghana."
+
+Primary CTA:
+"Get Started"
+
+Secondary CTA:
+"Explore Our Solutions"
+
+Include a small supporting trust statement only if it can be verified.
+
+For example, avoid claims such as "trusted by millions" unless genuine supporting data is available.
+
+Hero interactions
+
+- Primary CTA navigates to the appropriate onboarding destination.
+- Secondary CTA scrolls to the solutions section.
+- Buttons include hover and focus states.
+
+---
+
+5. PRODUCTS AND SOLUTIONS SECTION
+
+Create a spacious section introducing the services offered by I Pay Ghana.
+
+Section label:
+"OUR SOLUTIONS"
+
+Heading:
+"Payments made simpler."
+
+Supporting text:
+"Explore digital payment solutions designed to make everyday financial transactions more convenient."
+
+Display two large side-by-side cards on desktop, stacked on mobile.
+
+Card 1: Digital Payments
+
+Visual:
+A modern smartphone displaying a polished, fictional I Pay Ghana payment interface.
+
+The interface can show a sample payment summary in Ghana cedis, a recipient field, and a confirmation screen.
+
+Title:
+"Make payments with ease"
+
+Description:
+"Explore a simpler digital payment experience designed to help you manage transactions conveniently."
+
+CTA:
+"Explore Payments"
+
+Card 2: Business Payments
+
+Visual:
+A Ghanaian small-business owner using a smartphone or tablet at a shop counter.
+
+Title:
+"Built for everyday business"
+
+Description:
+"Discover digital payment experiences designed around the needs of Ghanaian entrepreneurs and growing businesses."
+
+CTA:
+"Explore Business Solutions"
+
+Design requirements
+
+- Soft mint backgrounds.
+- High-quality visual assets.
+- Large card headings.
+- Minimal descriptive text.
+- Clear CTAs.
+- Subtle hover elevation.
+
+Important: These cards are proposed brand concepts. Do not present unconfirmed features as existing services. Connect them to actual product pages only when those destinations and capabilities have been implemented.
+
+---
+
+6. FEATURED PRODUCT CARDS
+
+Create a row of three clean product cards introducing potential I Pay Ghana service categories.
+
+Card 1: Send Money
+
+Icon: Two directional arrows or a transfer symbol.
+
+Description:
+"Explore convenient ways to move money between supported accounts."
+
+Button:
+"Learn More"
+
+Card 2: Pay Bills
+
+Icon: A receipt or document with a payment symbol.
+
+Description:
+"Discover digital payment options for everyday bills and expenses."
+
+Button:
+"Learn More"
+
+Card 3: Business Collections
+
+Icon: A payment terminal or storefront.
+
+Description:
+"Explore payment collection solutions for businesses."
+
+Button:
+"Learn More"
+
+Card design
+
+- White background.
+- Soft shadow.
+- Rounded corners.
+- Green icons.
+- Short descriptions.
+- Light-green outlined buttons.
+
+Use a three-column grid on desktop and a single-column layout on mobile.
+
+These categories are proposed design content, not confirmation that I Pay Ghana currently provides these services. Do not enable payment functionality without a verified integration.
+
+---
+
+7. VALUE-ADDED SERVICES
+
+Create a section with a light mint background.
+
+Section label:
+"WHY I PAY GHANA"
+
+Heading:
+"More convenience. More possibilities."
+
+Supporting text:
+"Discover how a thoughtful digital payment experience can help simplify everyday financial activities."
+
+Add a "Contact Our Team" outlined button aligned to the right on desktop.
+
+Below, display five benefit cards.
+
+Benefit 1: Convenient Payments
+
+Description:
+"Explore simpler ways to handle supported everyday transactions."
+
+Benefit 2: Business-Friendly Solutions
+
+Description:
+"Discover payment experiences designed with small businesses in mind."
+
+Benefit 3: Clear Transactions
+
+Description:
+"Give users a clear, easy-to-understand view of their payment activity."
+
+Benefit 4: Digital Convenience
+
+Description:
+"Access digital experiences designed for everyday use."
+
+Benefit 5: Customer Support
+
+Description:
+"Find the information and assistance you need when using our services."
+
+Use simple green icons, short copy, and consistent card dimensions.
+
+Do not promise guaranteed transaction success, zero fees, instant settlement, or 24/7 support unless these claims have been verified.
+
+---
+
+8. HOW I PAY GHANA WORKS
+
+Create a full-width section with a vibrant green background.
+
+This should be one of the website's strongest visual sections.
+
+Left side: Smartphone mockup
+
+Show a premium smartphone mockup featuring a fictional I Pay Ghana mobile interface.
+
+The interface should include:
+
+- I Pay Ghana logo.
+- Account overview.
+- Sample balance displayed in GHS.
+- Recent transaction activity.
+- A sample payment confirmation notification.
+- A transaction history preview.
+- A prominent green-and-white or dark-green action button.
+
+Example fictional interface content:
+
+Available balance:
+"GHS 1,250.00"
+
+Recent transaction:
+"Payment received — GHS 150.00"
+
+Status:
+"Successful"
+
+Clearly treat all displayed account details and transactions as illustrative mock data.
+
+Do not imply that the screen connects to a live financial account.
+
+Right side: Heading and steps
+
+Heading:
+"How I Pay Ghana Works"
+
+Supporting text:
+"Simple experiences. Clear steps. Digital convenience."
+
+Display four numbered steps.
+
+01 — Get Started
+
+"Discover I Pay Ghana and follow the available onboarding instructions."
+
+02 — Set Up
+
+"Complete the required setup steps for the service you want to use."
+
+03 — Make a Payment
+
+"Follow the instructions for your selected payment method and confirm the transaction details."
+
+04 — Track Your Activity
+
+"Review available transaction confirmations and activity records."
+
+Visual requirements
+
+- Large white heading.
+- White supporting text.
+- Oversized step numbers.
+- Thin translucent separators.
+- Smartphone mockup with realistic proportions.
+- Responsive two-column layout.
+- Smooth scroll-based reveal animations.
+
+Only describe actual onboarding and transaction flows as operational once they have been implemented and verified.
+
+---
+
+9. SECURITY AND TRUST SECTION
+
+Create a clean white section focused on responsible digital financial experiences.
+
+Heading:
+"Your payments deserve care."
+
+Supporting text:
+"Clear information, careful handling of account details, and transparent payment processes matter."
+
+Create three feature cards.
+
+Feature 1: Account Security
+
+"Encourage secure account access and responsible handling of login credentials."
+
+Feature 2: Payment Transparency
+
+"Help users understand transaction details, applicable charges, and payment confirmations."
+
+Feature 3: Customer Assistance
+
+"Provide clear guidance on how to contact the appropriate support team."
+
+Use subtle security-themed illustrations and green icons.
+
+Do not claim certifications, regulatory approval, encryption standards, deposit protection, or fraud guarantees without evidence.
+
+If I Pay Ghana handles regulated financial activities, ensure the website accurately identifies the relevant licensed entity and applicable terms before publishing financial-service claims.
+
+---
+
+10. PAYMENT METHODS SECTION
+
+Create a visually distinct section explaining the payment methods actually supported by I Pay Ghana.
+
+Heading:
+"Designed for the way Ghana pays."
+
+Supporting text:
+"Explore the available payment methods and follow the instructions provided for your selected service."
+
+Potential visual categories:
+
+- Mobile Money.
+- Bank payments.
+- Supported digital payment channels.
+
+Use familiar Ghanaian payment-context imagery, but only display provider logos after confirming the relevant integrations or partnerships.
+
+If supported, show the applicable payment providers and explain the steps for using them.
+
+Do not invent USSD codes, merchant numbers, wallet identifiers, bank accounts, or payment instructions.
+
+If the payment infrastructure is not yet implemented, display a neutral information section instead of implying users can transact immediately.
+
+---
+
+11. CUSTOMER TESTIMONIALS
+
+Create a testimonial section with the heading:
+
+"Built around everyday needs."
+
+Supporting text:
+"Digital financial experiences should work for real people and real businesses."
+
+Display three testimonial cards featuring authentic-looking Ghanaian lifestyle portraits.
+
+Use these names as placeholders for the design:
+
+- Ama
+- Kwame
+- Abena
+
+Each card should include:
+
+- A portrait.
+- A short testimonial.
+- The person's first name.
+- An optional role or business category.
+
+Important: Do not fabricate testimonials and present them as genuine customer experiences.
+
+Until verified testimonials are supplied, clearly label these as sample content in the development environment or use neutral customer-story placeholders that are replaced before publication.
+
+Use rounded portrait images, clean card layouts, and subtle shadows.
+
+---
+
+12. FIND US / CONTACT SECTION
+
+Create a two-column contact section.
+
+Left side
+
+Heading:
+"Let's talk."
+
+Supporting text:
+"Have a question about I Pay Ghana? Get in touch to learn more about our services and available support."
+
+Display the following details only when verified:
+
+Phone:
+[INSERT VERIFIED BUSINESS PHONE NUMBER]
+
+Email:
+[INSERT VERIFIED BUSINESS EMAIL]
+
+Office:
+[INSERT VERIFIED BUSINESS ADDRESS]
+
+Business hours:
+[INSERT VERIFIED BUSINESS HOURS]
+
+Include:
+
+- "Call Us" button.
+- "Email Us" button.
+- "Get Directions" button, if a verified address is available.
+
+Right side
+
+Create a clean contact form containing:
+
+- Full Name.
+- Email Address.
+- Phone Number.
+- Subject.
+- Message.
+- Consent checkbox where required.
+- Green "Send Message" button.
+
+The form should include validation, loading states, success feedback, and error handling.
+
+Connect it to a real backend or form service before accepting submissions.
+
+Do not invent I Pay Ghana's address or contact information.
+
+---
+
+13. FINAL CALL-TO-ACTION SECTION
+
+Create a large, rounded green CTA panel near the bottom of the page.
+
+Heading:
+"Ready to make payments simpler?"
+
+Supporting text:
+"Explore I Pay Ghana and discover a digital payment experience designed around everyday needs."
+
+Primary button:
+"Get Started"
+
+Secondary button:
+"Contact Us"
+
+Use subtle abstract payment-inspired graphics in the background.
+
+Keep the section spacious and uncluttered.
+
+---
+
+14. FOOTER
+
+Create a professional multi-column footer.
+
+Column 1: Brand
+
+I Pay Ghana logo.
+
+Short description:
+"Exploring better ways to make digital payments work for people and businesses in Ghana."
+
+Column 2: Explore
+
+- Home
+- Products
+- Solutions
+- How It Works
+- About Us
+
+Column 3: Support
+
+- Contact Us
+- Help Centre
+- FAQs
+- Report an Issue
+
+Only link to pages or support channels that exist.
+
+Column 4: Legal
+
+- Privacy Policy
+- Terms and Conditions
+- Cookie Policy
+- Fees and Charges
+
+Legal documents must be supplied or professionally prepared before publication.
+
+Social links
+
+Provide configurable links for supported platforms, such as:
+
+- LinkedIn
+- Instagram
+- Facebook
+- X
+
+Do not invent official social media accounts.
+
+Bottom footer
+
+Include:
+
+- Copyright notice.
+- Current year.
+- Country: Ghana.
+- Legal links.
+- Optional cookie preferences control.
+
+Example:
+"© 2026 I Pay Ghana. All rights reserved."
+
+---
+
+15. RESPONSIVE DESIGN
+
+The website must work across:
+
+- Mobile phones.
+- Tablets.
+- Laptops.
+- Large desktop displays.
+
+Mobile requirements
+
+- Collapsible navigation.
+- Large, readable text.
+- Full-width buttons where appropriate.
+- Stacked product cards.
+- Responsive photography.
+- No horizontal overflow.
+- Proper spacing between interactive elements.
+- Touch-friendly buttons.
+- Optimized images and loading performance.
+
+The mobile experience is particularly important because smartphones are a major access point for digital services in Ghana.
+
+---
+
+16. ANIMATIONS AND INTERACTIONS
+
+Use subtle, professional interactions.
+
+Include:
+
+- Smooth scrolling.
+- Button hover transitions.
+- Card hover elevation.
+- Dropdown navigation.
+- Mobile navigation toggle.
+- Scroll-triggered section reveals.
+- Subtle image transitions.
+- Accessible focus indicators.
+- Form validation feedback.
+- Cookie consent controls.
+
+Avoid excessive animation, distracting parallax, autoplay video, and unnecessary loading screens.
+
+Respect the user's reduced-motion preference.
+
+---
+
+17. TECHNICAL IMPLEMENTATION
+
+Build the website using a maintainable modern frontend architecture.
+
+Preferred stack:
+
+- React.
+- TypeScript.
+- Vite or Next.js.
+- Tailwind CSS.
+- Lucide icons.
+- Reusable components.
+- Responsive CSS.
+- Optimized image assets.
+
+If an existing project is already using a framework, inspect the project first and preserve its architecture unless there is a strong reason to change it.
+
+Suggested components
+
+- Header.
+- MobileNavigation.
+- HeroSection.
+- SolutionsSection.
+- ProductCard.
+- BenefitsSection.
+- HowItWorksSection.
+- SecuritySection.
+- PaymentMethodsSection.
+- TestimonialsSection.
+- ContactSection.
+- FinalCTA.
+- Footer.
+- CookieConsent.
+
+Code quality
+
+- Use reusable components.
+- Avoid unnecessary dependencies.
+- Maintain consistent naming.
+- Use semantic HTML.
+- Implement accessible forms and buttons.
+- Add descriptive alt text to meaningful images.
+- Optimize images for performance.
+- Avoid duplicated markup.
+- Keep the design easy to maintain.
+
+Functional requirements
+
+- Navigation links should work.
+- Dropdowns should open and close correctly.
+- Mobile navigation should work.
+- CTA buttons should have valid destinations.
+- Forms should validate input.
+- Cookie preferences should be stored appropriately.
+- No dead buttons.
+- No broken images.
+- No fake payment processing.
+- No exposed API keys or credentials.
+
+If authentication, live payments, transaction history, or account balances are not connected to a real backend, present those screens as design mockups rather than working financial features.
+
+---
+
+18. IMAGE AND ASSET DIRECTION
+
+Use authentic, high-quality lifestyle photography representing Ghanaian people and everyday environments.
+
+Prioritize:
+
+- Young Ghanaian professionals.
+- Small-business owners.
+- Market traders.
+- Entrepreneurs.
+- Retail environments.
+- Everyday urban life.
+- People confidently using smartphones.
+
+Image treatment:
+
+- Natural lighting.
+- Realistic skin tones.
+- Professional composition.
+- Clean backgrounds.
+- Consistent colour grading.
+- Green accents that complement the brand.
+
+Avoid:
+
+- Stereotypical depictions of Africa.
+- Artificial-looking faces.
+- Excessively staged corporate photography.
+- Unlicensed brand logos.
+- Reproducing M-KOPA's proprietary images.
+
+Use properly licensed imagery or generate original visual assets.
+
+---
+
+19. DESIGN QUALITY BENCHMARKS
+
+The finished website should communicate the following qualities:
+
+Trust: Clear information, professional layout, and restrained visual design.
+
+Simplicity: Users should understand the purpose of I Pay Ghana within seconds.
+
+Local relevance: The imagery, currency, language, and visual details should feel appropriate for Ghana.
+
+Modernity: The site should look like a contemporary fintech brand rather than a generic corporate template.
+
+Conversion: Every major section should guide users toward an appropriate next step.
+
+Consistency: Colours, buttons, typography, card styles, and spacing must follow a coherent design system.
+
+Originality: Use the reference as visual inspiration, not as a template to reproduce pixel for pixel.
+
+---
+
+20. FINAL DELIVERY REQUIREMENTS
+
+Deliver a complete, polished, responsive I Pay Ghana website.
+
+The implementation must include:
+
+1. A distinctive I Pay Ghana brand identity.
+2. A premium hero section with Ghanaian lifestyle photography.
+3. Product and solutions cards.
+4. A benefits section.
+5. A green How It Works section with a smartphone mockup.
+6. Security and payment-method sections.
+7. Customer testimonial components.
+8. A contact section.
+9. A strong final call to action.
+10. A professional footer.
+11. Mobile-responsive navigation.
+12. Functional frontend interactions.
+13. Accessible components.
+14. Clean, reusable code.
+15. A consistent, production-quality design system.
+
+Before completing the work, inspect the entire page at mobile, tablet, and desktop sizes.
+
+Fix layout issues, broken navigation, inconsistent spacing, inaccessible text, placeholder links, and console errors.
+
+Final creative direction: Make I Pay Ghana look like a serious, modern Ghanaian fintech brand with the visual polish of an established African digital finance company. Keep the interface clean, the green identity distinctive, the photography authentic, and the user journey straightforward.
+
+The result should feel designed specifically for I Pay Ghana, not like an M-KOPA clone with a different logo.

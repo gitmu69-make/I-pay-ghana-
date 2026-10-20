@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "I Pay Ghana",
+      "hasCanvas": false,
+      "bodyTextLen": 5928,
+      "bodyTextHash": "d5f5b723799edc39404e94623eb4cbc83c9943e62c93092df56b2f2f4438caaf",
+      "bodyTextPrefix": "Skip to content I PAY GHANA Home Products Solutions How It Works",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "I Pay Ghana",
+      "hasCanvas": false,
+      "bodyTextLen": 5859,
+      "bodyTextHash": "379240ab4ed9c1e142510f40f1ba28f948794abc63c1d777c26e5f0d84613906",
+      "bodyTextPrefix": "Skip to content I PAY GHANA Open menu YOUR MONEY. YOUR WAY. Pay ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

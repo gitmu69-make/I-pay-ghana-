@@ -1,0 +1,1 @@
+import{h as e,t}from"./layout-C59wck_c.js";import{n}from"./home-page-D-3Qihfo.js";var r=e(),i=function(){return(0,r.jsx)(t,{children:(0,r.jsx)(n,{})})};export{i as component};
