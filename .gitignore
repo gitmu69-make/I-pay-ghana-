@@ -1,0 +1,27 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.grok/app-env.json
+
+# Local Grok state
+.grok/preview.log
+.grok/preview.pid
+.grok/status
+
+# Generated Vercel deployment output
+.vercel/output/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Debug logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
